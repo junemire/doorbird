@@ -1,0 +1,23 @@
+{
+  "name": "doorbird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "sodium-native": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junemire/doorbird.git"
+  },
+  "author": "Rene Bormann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junemire/doorbird/issues"
+  },
+  "homepage": "https://github.com/junemire/doorbird#readme"
+}
